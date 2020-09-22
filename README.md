@@ -1,1 +1,1 @@
-# Java-demo op kad-wijngaard
+# Java-demo op kad-wijngaard @ github.com
